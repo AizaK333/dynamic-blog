@@ -1,7 +1,7 @@
 
 'use client'
 import Link from "next/link";
-import { FaArrowDown } from "react-icons/fa";
+
 
 export default function Hero() {
   return (
