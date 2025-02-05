@@ -1,6 +1,7 @@
 'use client'
 import { useState } from 'react';
 import Link from 'next/link';
+import { FaFacebook, FaLinkedin } from 'react-icons/fa';
  // Icons for social media
 
 export default function Navbar() {
